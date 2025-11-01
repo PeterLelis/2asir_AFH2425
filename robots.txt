@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://peterlelis.github.io/2asir_AFH2425/sitemap.xml
